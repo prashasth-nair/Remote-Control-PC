@@ -1,0 +1,7 @@
+pyautogui
+jpysocket
+screen_brightness_control
+PySimpleGUIQt
+ping3
+comtypes
+pycaw
